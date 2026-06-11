@@ -1,7 +1,5 @@
 # 🎨 Thumbait - AI-Powered Thumbnail Generator
 
-> **🚧 Work in Progress:** This project is currently under active development. The frontend client is being built out, and the Node.js/Express backend integration with the Google Gemini API is in the upcoming roadmap.
-
 An AI-Powered SaaS thumbnail generator built on the MERN stack. Thumbait is designed to streamline the content creation process by integrating the Google Gemini API for prompt-to-image generation, featuring secure JWT authentication and automated asset management via Cloudinary.
 
 ## 🚀 Tech Stack
